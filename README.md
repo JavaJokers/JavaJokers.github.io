@@ -2,7 +2,7 @@
 
 This is where all the code for our website is going to be placed.  
 
-I found some CSS templates here [Free CSS](https://www.free-css.com/free-css-templates) and a couple here [W3Schools Templates](https://www.w3schools.com/css/css_templates.asp)
+I found some CSS templates at [Free CSS](https://www.free-css.com/free-css-templates) and a couple at [W3Schools Templates](https://www.w3schools.com/css/css_templates.asp)
 
 Please browse through the templates and let me know which one you like @rpmm24
 
