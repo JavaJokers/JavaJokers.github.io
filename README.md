@@ -6,6 +6,6 @@ I found some CSS templates here [Free CSS](https://www.free-css.com/free-css-tem
 
 Please browse through the templates and let me know which one you like @rpmm24
 
-You can use the Replit IDE to edit this at [JavaJokers.github.io](https://replit.com/join/asbetphhzg-sam948byte)
+You can use the Replit IDE to edit this at [JavaJokers.github.io](https://replit.com/join/dqcbvpdkny-sam948byte)
 
 The link to the actual website is [here](javajokers.github.io)
