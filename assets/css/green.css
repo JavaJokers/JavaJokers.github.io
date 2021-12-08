@@ -33,7 +33,7 @@ width: 70%;
 margin: 5px auto;
 padding: 10px 50px;
 position: relative;
-color: #690;
+color: rgb(0, 54, 153);
 }
 	
 
@@ -64,11 +64,11 @@ top:15px; left:0; right:0;
 }
 
 #pseudo-wrap2 {
-background: #88b503;
-background: -moz-linear-gradient(top,  #88b503 0%, #000000 98%);
-background: -webkit-linear-gradient(top,  #88b503 0%,#000000 98%);
-background: linear-gradient(to bottom,  #88b503 0%,#000000 98%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88b503', endColorstr='#000000',GradientType=0 );
+background: #6794cf;
+background: -moz-linear-gradient(top,  #6794cf 0%, #000000 98%);
+background: -webkit-linear-gradient(top,  #6794cf 0%,#000000 98%);
+background: linear-gradient(to bottom,  #6794cf 0%,#000000 98%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6794cf', endColorstr='#000000',GradientType=0 );
 height: 190px;
 margin:0;
 width:100%;
@@ -93,9 +93,9 @@ top:211px; left:0; right:0;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4AA0ea', endColorstr='#4AA0ce',GradientType=0 );
   color:#fff;
   height:200px;
-  -webkit-box-shadow: 0px 40px 20px -15px #C4D9A3;
-  -moz-box-shadow: 0px 40px 20px -15px #c4d9a3;
-  box-shadow: 0px 40px 20px -15px #c4d9a3;
+  -webkit-box-shadow: 0px 40px 20px -15px #67becf;
+  -moz-box-shadow: 0px 40px 20px -15px #67becf;
+  box-shadow: 0px 40px 20px -15px #67becf;
   border:10px solid #fff;
   border-bottom:1px solid #fff;
 }
@@ -162,7 +162,7 @@ ul#menu li a:hover,ul#menu li a.current
 
 #content h3
 {	background-color:inherit;
-	color:#690;
+	color:rgb(0, 54, 153);
 	font:bold 12pt Arial,sans-serif;	
 	padding:0;	}
 
@@ -178,12 +178,12 @@ ul#menu li a:hover,ul#menu li a.current
 	padding:0 3px; }
 
 #content span.author a:hover
-{	background-color:#690;
+{	background-color:rgb(0, 54, 153);
 	color:#fff;	}
 
 #content p a
 {	background-color:inherit;
-	color:#690;
+	color:rgb(0, 54, 153);
 	text-decoration:underline;	} 	
 	
 #content p
@@ -197,7 +197,7 @@ ul#menu li a:hover,ul#menu li a.current
 
 #content li a
 {	background-color:inherit;
-	color:#690;
+	color:rgb(0, 54, 153);
 	text-decoration:none;	}
 
 #content li a:hover
@@ -217,7 +217,7 @@ ul#menu li a:hover,ul#menu li a.current
 #content ul li:before {
   content: "\27a1 \00a0 \00a0";
   background-color:inherit;
-  color:#690;
+  color:rgb(0, 54, 153);
   font-size:16px;
 }
 
@@ -297,7 +297,7 @@ ul#menu {display:none;}
 #show-menu:checked ~ ul#menu {display: block; position: absolute;  width:50%; margin:1% 0 0 -8%; overflow:visible; z-index:100;}
 ul#menu li { display: block; text-align:left; margin:0 0 0 20%;}
 ul#menu li a { display: block; background-color:#fff;}
-ul#menu li a:hover { background-color:#690; color:#fff;}
+ul#menu li a:hover { background-color:rgb(0, 54, 153); color:#fff;}
 ul#menu li a.current, ul#menu li a.active:hover {    background-color:#eee;  color: #000;}
 
 
