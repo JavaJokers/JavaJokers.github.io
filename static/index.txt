@@ -1,8 +1,0 @@
-<h2>The Java Jokers</h2>
-<br>
-<span id="a">javajokers@javajokers.github.io</span>:<span id="b">~</span><span id="c">$</span> cd ~/AboutUs
-<span id="a">javajokers@javajokers.github.io</span>:<span id="b">~</span><span id="c">$</span> cat aboutus.txt<br/><br/>
-
-
-
-Hi, we're the Java Jokers.
