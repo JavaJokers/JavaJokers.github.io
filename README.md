@@ -6,5 +6,4 @@ You can use the Replit IDE to edit this, however the link has been removed due t
 
 The link to the actual website is [here](javajokers.github.io)
 
-@Tdubmorris
-Go ahead and edit it so that it fits our team
+Hey Eli and Henry, the other repl was funky with the branches, and so I created a new one.  You should have it on you repl.
