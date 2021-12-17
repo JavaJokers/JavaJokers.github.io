@@ -12,6 +12,10 @@ html {
 		  font-size: medium;
 }
 
+a{
+	font-family: OCR-A;
+}
+
 .error {
   text-align: center;
   font-family: 'Gilda Display', serif;
