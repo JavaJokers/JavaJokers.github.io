@@ -1,4 +1,4 @@
-[Under Construction](/assets/underconstruction.jpg)
+[Under Construction](../assets/img/construction.png)
 
 ### JavaJokers.github.io
 
