@@ -1,4 +1,4 @@
-# Under Construction
+[Under Construction](/assets/underconstruction.jpg)
 
 ### JavaJokers.github.io
 
