@@ -342,7 +342,7 @@ pre {
     position: absolute;
     height: 7px; width: 7px;
     border-radius: 4px;
-    background: teal;
+    background: yellow;
   z-index: 999999999999;
   }
 
