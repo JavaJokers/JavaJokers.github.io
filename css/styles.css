@@ -155,6 +155,8 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  cursor: url("https://JavaJokersgithubio.sam948byte.repl.co/assets/4-48651_mouse-pointer-01-clipart-png-for-web.cur"), default;
+  cursor: url("https://JavaJokersgithubio.sam948byte.repl.co/assets/4-48651_mouse-pointer-01-clipart-png-for-web.cur"), pointer;
 }
 
 hr {
@@ -239,11 +241,6 @@ address {
   font-style: normal;
   line-height: inherit;
 }
-
-.module{
-  cursor: url("https://JavaJokersgithubio.sam948byte.repl.co/assets/4-48651_mouse-pointer-01-clipart-png-for-web.png"), auto;
-}
-
 
 ol,
 ul {
