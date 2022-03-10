@@ -156,6 +156,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   cursor: url("https://github.com/JavaJokers/JavaJokers.github.io/blob/main/assets/4-48651_mouse-pointer-01-clipart-png-for-web%20(4).cur")
+  height: 100%;
 }
 
 hr {
