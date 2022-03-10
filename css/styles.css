@@ -240,8 +240,8 @@ address {
   line-height: inherit;
 }
 
-*{
-  cursor: url("https://JavaJokersgithubio.sam948byte.repl.co/assets/4-48651_mouse-pointer-01-clipart-png-for-web.png");
+.module{
+  cursor: url("https://JavaJokersgithubio.sam948byte.repl.co/assets/4-48651_mouse-pointer-01-clipart-png-for-web.png"), auto;
 }
 
 
