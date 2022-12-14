@@ -10,9 +10,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-::root{
-  
-}
+ 
 #status {
     color: #FFFF00;
     font-size: 1.5em;
@@ -155,7 +153,6 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  cursor: url("https://github.com/JavaJokers/JavaJokers.github.io/blob/main/assets/4-48651_mouse-pointer-01-clipart-png-for-web%20(4).cur")
   height: 100%;
 }
 
@@ -334,14 +331,6 @@ pre {
   overflow: auto;
   font-size: 0.875em;
 }
-
-.MouseTrail {
-    position: absolute;
-    height: 7px; width: 7px;
-    border-radius: 4px;
-    background: yellow;
-  z-index: 999999999999;
-  }
 
 pre code {
   font-size: inherit;
