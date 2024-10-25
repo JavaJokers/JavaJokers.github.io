@@ -695,9 +695,9 @@ progress {
   color: #6c757d;
 }
 .profile {
- /* display:inline-block; */
+ display:inline-block;
   vertical-align: middle;
-  float: right;
+  
 }
 
 .container,
@@ -712,7 +712,7 @@ progress {
   padding-left: var(--bs-gutter-x, 0.75rem);
   margin-right: auto;
   margin-left: auto;
-  float: right;
+  
 }
 
 @media (min-width: 576px) {
