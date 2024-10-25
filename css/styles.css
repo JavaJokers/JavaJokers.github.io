@@ -695,8 +695,9 @@ progress {
   color: #6c757d;
 }
 .profile {
- display:inline-block;
+ /*display:inline-block;*/
   vertical-align: middle;
+  float:left;
   
 }
 
