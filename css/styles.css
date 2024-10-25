@@ -694,6 +694,9 @@ progress {
   font-size: 0.875em;
   color: #6c757d;
 }
+.profile {
+  display:inline-block;
+}
 
 .container,
 .container-fluid,
