@@ -697,7 +697,8 @@ progress {
 .profile {
  /*display:inline-block;*/
   vertical-align: middle;
-  /*float:left;*/
+  float:left;
+  display: flex;
   
 }
 
