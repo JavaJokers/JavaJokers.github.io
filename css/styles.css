@@ -7567,7 +7567,8 @@ textarea.form-control-lg {
 
 .mt-3 {
   margin-top: 1rem !important;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .mt-4 {
