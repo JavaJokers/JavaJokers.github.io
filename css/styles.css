@@ -704,6 +704,10 @@ progress {
 .project-card {
   border: 2px solid black;
   border-radius: 5px;
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .container,
